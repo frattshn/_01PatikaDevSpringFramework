@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="_01PatikaDevSpringFramework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>_01PatikaDevSpringFramework</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="_01PatikaDevSpringFramework-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="_01PatikaDevSpringFramework:war exploded" />
+    </root>
+  </artifact>
+</component>
