@@ -13,4 +13,8 @@
         <class>com.patika.aop.interceptor.InterceptorYolKesiciAsılIs</class>
     </interceptors>
 
+    <decorators>
+        <class>com.patika.aop.decorator.EvDecorator</class>
+    </decorators>
+
 </beans>
