@@ -9,4 +9,8 @@
         <class>com.patika.alternative.Patron1</class> <!-- Yalnızca bir adet olabilir. -->
     </alternatives>
 
+    <interceptors>
+        <class>com.patika.aop.interceptor.InterceptorYolKesiciAsılIs</class>
+    </interceptors>
+
 </beans>
